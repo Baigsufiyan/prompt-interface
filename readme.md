@@ -2,6 +2,9 @@
 
 A simple Streamlit app to enter prompts, generate JSON specs, view logs, and simulate sending specs to agents.
 
+## 🚀 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prompt-interface-qtfu5mdiauyayhak8fro3w.streamlit.app/)
+
 ## Features
 - Enter prompts and save with timestamps
 - Generate and view JSON specs
